@@ -8,3 +8,4 @@ def resize_image(input_path, output_path, new_width, new_height):
     resized_image = image.resize((new_width, new_height))
 
     # Save the resized image
+    resized_image.save(output_path)
