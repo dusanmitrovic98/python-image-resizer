@@ -17,3 +17,4 @@ input_path = "picture.png"  # Path to the input image file
 output_path = "output.png"  # Path to save the resized image
 new_width = 800  # Desired width for the resized image
 new_height = 1200  # Desired height for the resized image
+
