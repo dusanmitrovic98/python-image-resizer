@@ -19,3 +19,4 @@ new_width = 800  # Desired width for the resized image
 new_height = 1200  # Desired height for the resized image
 
 resize_image(input_path, output_path, new_width, new_height)
+
