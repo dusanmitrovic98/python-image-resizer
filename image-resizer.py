@@ -11,3 +11,4 @@ def resize_image(input_path, output_path, new_width, new_height):
     resized_image.save(output_path)
 
     print("Image resized successfully.")
+
