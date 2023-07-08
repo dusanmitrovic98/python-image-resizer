@@ -6,3 +6,4 @@ def resize_image(input_path, output_path, new_width, new_height):
 
     # Resize the image
     resized_image = image.resize((new_width, new_height))
+
