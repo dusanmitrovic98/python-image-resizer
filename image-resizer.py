@@ -13,3 +13,4 @@ def resize_image(input_path, output_path, new_width, new_height):
     print("Image resized successfully.")
 
 # Usage
+input_path = "picture.png"  # Path to the input image file
